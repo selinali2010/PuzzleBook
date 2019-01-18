@@ -1,0 +1,12 @@
+C:\Users\Selina\Documents\Visual Studio 2012\Projects\PictureBook\PictureBook\bin\Debug\PictureBook.exe.config
+C:\Users\Selina\Documents\Visual Studio 2012\Projects\PictureBook\PictureBook\obj\Debug\PictureBook.Resources.resources
+C:\Users\Selina\Documents\Visual Studio 2012\Projects\PictureBook\PictureBook\obj\Debug\PictureBook.vbproj.GenerateResource.Cache
+C:\Users\Selina\Documents\Visual Studio 2012\Projects\PictureBook\PictureBook\bin\Debug\PictureBook.exe
+C:\Users\Selina\Documents\Visual Studio 2012\Projects\PictureBook\PictureBook\bin\Debug\PictureBook.pdb
+C:\Users\Selina\Documents\Visual Studio 2012\Projects\PictureBook\PictureBook\bin\Debug\PictureBook.xml
+C:\Users\Selina\Documents\Visual Studio 2012\Projects\PictureBook\PictureBook\obj\Debug\PictureBook.exe
+C:\Users\Selina\Documents\Visual Studio 2012\Projects\PictureBook\PictureBook\obj\Debug\PictureBook.xml
+C:\Users\Selina\Documents\Visual Studio 2012\Projects\PictureBook\PictureBook\obj\Debug\PictureBook.pdb
+C:\Users\Selina\Documents\Visual Studio 2012\Projects\PictureBook\PictureBook\obj\Debug\PictureBook.Intro.resources
+C:\Users\Selina\Documents\Visual Studio 2012\Projects\PictureBook\PictureBook\obj\Debug\PictureBook.Animal.resources
+C:\Users\Selina\Documents\Visual Studio 2012\Projects\PictureBook\PictureBook\obj\Debug\PictureBook.Food.resources
